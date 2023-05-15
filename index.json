@@ -1,3 +1,6 @@
 {
-  "Checkpoint": "0.0.1"
+  "Checkpoint": {
+    "version": "0.0.3",
+    "changelog": []
+  }
 }
